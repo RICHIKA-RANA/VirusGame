@@ -13,8 +13,8 @@ function init(){
 	canvas=document.getElementById('mycanvas');
 	console.log(canvas);
 
-	w = 1338
-	h = 668
+	w = 1331
+	h = 630
 
 	canvas.width =w
 	canvas.height = h
